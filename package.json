@@ -1,0 +1,14 @@
+{
+  "name": "ember-vale-bot",
+  "version": "2.2.0",
+  "private": true,
+  "description": "A dependency-free Ember Vale automation client with dashboard, gear, town, zones, builds, logging and expeditions",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node bot.js --self-test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
